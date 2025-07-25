@@ -1,2 +1,2 @@
 # .Org
-dev@REITCoin.unisocial.net Unicorn Finance
+@REIT-Coin || REITCoin, dev@REITCoin.unisocial.net, parent: Unicorn Finance
